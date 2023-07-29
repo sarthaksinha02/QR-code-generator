@@ -1,5 +1,5 @@
 # QR-code-generator
-# Project Overview
+
 The QR Code Generator is a web application that allows users to input a text message or URL and generate a corresponding QR code. The project is implemented using HTML, CSS, and JavaScript, and it utilizes the qrcode.js library for QR code generation.
 
 # Project Objectives
